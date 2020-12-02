@@ -7,11 +7,11 @@
 [Review Catalog](https://github.com/SOFTBoiS/SI_MP_4_Review_Catalog)
 
 ## How to
-
-1. Run the Eureka server.
-2. Run the Car Catalog.
-3. Run the Review Catalog.
-4. Run the Car Gateway.
+1. Replace the mongodb connection string in the Review Catalog [application.properties](https://github.com/SOFTBoiS/SI_MP_4_Review_Catalog/blob/main/src/main/resources/application.properties) with your own.  
+2. Run the Eureka server.
+3. Run the Car Catalog.
+4. Run the Review Catalog.
+5. Run the Car Gateway.
 
 **Before making any review requests, you should create some users with some cars**
 
